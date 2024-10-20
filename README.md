@@ -2,6 +2,8 @@
 <h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy María ✨</h1>
 </div>
 
+![María García Collado](https://raw.githubusercontent.com/3063940/3063940/main/María%20García%20Collado.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
