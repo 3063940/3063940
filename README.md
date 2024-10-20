@@ -1,8 +1,7 @@
 <div align="center">
-<h1 align="center">¡Hola!👋 soy María ✨</h1>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy María ✨</h1>
 </div>
-<img src=![María García Collado](https://github.com/user-attachments/assets/47bd9d3b-0ac8-441c-af7f-0124fa91ee01)
-">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
