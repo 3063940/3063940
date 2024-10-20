@@ -15,7 +15,7 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 - Entornos de Desarrollo 👩🏻‍💻
 - Lenguaje de Marcas ⌨ 
 - ~~Inglés.~~  🇬🇧 
-- ~~Sistemas Informáticos.~~ 🖳
+- ~~Sistemas Informáticos.~~ 🖲️
 
 ## Stack Tecnológico 🤖
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="16" height="16"> HTML
@@ -28,7 +28,7 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"> C++
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="16" height="16"> Visual Studio Code
 
-## Stack Tecnológico del Curso 🕮 
+## Stack Tecnológico del Curso 💾
 
 | Base de Datos | Lenguaje de Marcas | Programación | Entornos de Desarrollo |
 |---------------|---------------------|--------------|------------------------|
