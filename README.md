@@ -37,5 +37,6 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 
 ## Preferencias Tecnológicas 📟
 
---> Ciberseguridad
---> Backend
+- --> Ciberseguridad
+- --> Backend
+
