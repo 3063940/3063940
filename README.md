@@ -1,9 +1,8 @@
-## Hi there 👋
-
-<!--
-**3063940/3063940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center">
+<h1 align="center">¡Hola!👋 soy María ✨</h1>
+</div>
+<img src=![María García Collado](https://github.com/user-attachments/assets/47bd9d3b-0ac8-441c-af7f-0124fa91ee01)
+">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
