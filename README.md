@@ -40,3 +40,43 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 - --> Ciberseguridad
 - --> Backend
 
+
+## English Version
+
+## Personal Information ⚡
+
+Currently pursuing the **Higher Education Degree in Multiplatform Application Development** at the Distance Vocational Training Center *"La Conservera"* - Region of Murcia.
+
+## Enrolled Subjects ✍🏼
+
+- Databases 🗃️  
+- Programming 🧠  
+- Development Environments 👩🏻‍💻  
+- Markup Languages ⌨  
+- ~~English.~~ 🇬🇧  
+- ~~Computer Systems.~~ 🖲️  
+
+## Tech Stack 🤖
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="16" height="16"> HTML  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="16" height="16"> CSS  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"> Python  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="16" height="16"> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="16" height="16"> TypeScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="16" height="16"> JavaScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"> C  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"> C++  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="16" height="16"> Visual Studio Code  
+
+## Course Tech Stack 💾
+
+| Databases     | Markup Languages    | Programming  | Development Environments |
+|---------------|---------------------|--------------|---------------------------|
+| MySQL         | HTML                | Java         | IntelliJ                  |
+|               | CSS                 |              |                           |
+
+## Tech Preferences 📟
+
+- --> Cybersecurity  
+- --> Backend
+
