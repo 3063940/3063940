@@ -11,11 +11,19 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 ## Asignaturas Matriculadas ✍🏼
 
 - Base de Datos 🗃️
-- Programación 🧠
-- Entornos de Desarrollo 👩🏻‍💻
-- Lenguaje de Marcas ⌨ 
+- ~~Programación~~ 🧠
+- ~~Entornos de Desarrollo~~ 👩🏻‍💻
+- ~~Lenguaje de Marcas~~ ⌨ 
 - ~~Inglés.~~  🇬🇧 
 - ~~Sistemas Informáticos.~~ 🖲️
+
+- Acceso a Datos 💾  
+- Desarrollo de Interfaces 🎨  
+- Programación de Servicios y Procesos ⚙️  
+- Programación en Python 🐍  
+- Programación Multimedia y Dispositivos Móviles 📱  
+- Sistemas de Gestión Empresarial 🏢  
+- Sostenibilidad Aplicada al Sistema Productivo 🌱
 
 ## Stack Tecnológico 🤖
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="16" height="16"> HTML
@@ -33,7 +41,7 @@ Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplat
 | Base de Datos | Lenguaje de Marcas | Programación | Entornos de Desarrollo |
 |---------------|---------------------|--------------|------------------------|
 | MySQL         | HTML                | Java         | IntelliJ               |
-|               | CSS                 |              |                        |
+|               | CSS                 | Python       |                        |
 
 ## Preferencias Tecnológicas 📟
 
@@ -50,11 +58,19 @@ Currently pursuing the **Higher Education Degree in Multiplatform Application De
 ## Enrolled Subjects ✍🏼
 
 - Databases 🗃️  
-- Programming 🧠  
-- Development Environments 👩🏻‍💻  
-- Markup Languages ⌨  
+- ~~Programming~~ 🧠  
+- ~~Development Environments~~ 👩🏻‍💻  
+- ~~Markup Languages~~ ⌨  
 - ~~English.~~ 🇬🇧  
-- ~~Computer Systems.~~ 🖲️  
+- ~~Computer Systems.~~ 🖲️
+
+- Data Access 💾  
+- Interface Development 🎨  
+- Service and Process Programming ⚙️  
+- Python Programming 🐍  
+- Multimedia and Mobile Device Programming 📱  
+- Business Management Systems 🏢  
+- Sustainability Applied to the Production System 🌱
 
 ## Tech Stack 🤖
 
@@ -73,7 +89,7 @@ Currently pursuing the **Higher Education Degree in Multiplatform Application De
 | Databases     | Markup Languages    | Programming  | Development Environments |
 |---------------|---------------------|--------------|---------------------------|
 | MySQL         | HTML                | Java         | IntelliJ                  |
-|               | CSS                 |              |                           |
+|               | CSS                 |  Python      |                           |
 
 ## Tech Preferences 📟
 
